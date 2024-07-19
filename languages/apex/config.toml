@@ -1,6 +1,6 @@
 name = "Apex"
 grammar = "apex"
-path_suffixes = ["apex"]
+path_suffixes = ["apex/apex"]
 line_comments = ["// "]
 autoclose_before = ";:.,=}])>` \n\t\""
 brackets = [

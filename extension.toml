@@ -1,0 +1,11 @@
+id = "apex"
+name = "Apex"
+description = "Apex support."
+version = "0.0.1"
+schema_version = 1
+authors = ["igorcguedes <igorcguedes@proton.me>"]
+repository = "https://github.com/icarvagu/zed-apex"
+
+[grammars.apex]
+repository = "https://github.com/aheber/tree-sitter-sfapex.git"
+commit = "c99ad4b16d112fea91745e3f1b769754239fdaba"
