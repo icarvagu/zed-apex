@@ -1,0 +1,7 @@
+{
+  "name": "apex",
+  "version": "0.0.1",
+  "authors": ["igorcguedes <igorcguedes@proton.me>"],
+  "description": "Provides Apex syntax highlighting in Zed",
+  "repository": "https://github.com/icarvagu/zed-apex"
+}
